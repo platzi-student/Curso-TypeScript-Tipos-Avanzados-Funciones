@@ -1,0 +1,23 @@
+{
+  "name": "curso-typescript-tipos-avanzados-funciones",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/42653934/166395339-72fdbbeb-dc25-446f-bb2d-9c1a3b8fcec5.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi-student/Curso-TypeScript-Tipos-Avanzados-Funciones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platzi-student/Curso-TypeScript-Tipos-Avanzados-Funciones/issues"
+  },
+  "homepage": "https://github.com/platzi-student/Curso-TypeScript-Tipos-Avanzados-Funciones#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
